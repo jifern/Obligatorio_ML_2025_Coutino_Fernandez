@@ -1,0 +1,2001 @@
+barrio,dormitorios,banos,metros,franja_precio
+Villa Muñoz,2.0,1.0,54.0,medio
+Malvin,2.0,2.0,99.0,alto
+Cerrito,2.0,1.0,300.0,bajo
+Prado,2.0,2.0,130.0,alto
+Atahualpa,2.0,1.0,100.0,bajo
+Aguada,2.0,1.0,86.0,bajo
+Malvin Norte,2.0,1.0,72.0,bajo
+Carrasco,4.0,4.0,150.0,alto
+Villa Española,1.0,1.0,40.0,bajo
+Carrasco,2.0,3.0,139.0,alto
+Parque Batlle,2.0,2.0,365.0,alto
+Carrasco,2.0,1.0,1035.0,medio
+Piedras Blancas,2.0,4.0,142.0,bajo
+Bella Vista,3.0,2.0,95.0,bajo
+Pocitos,2.0,2.0,134.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Prado,3.0,2.0,388.0,alto
+Centro,1.0,1.0,60.0,medio
+Brazo Oriental,3.0,1.0,90.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Buceo,1.0,1.0,130.0,medio
+Monoambiente,2.0,1.0,32.0,bajo
+Belvedere,4.0,2.0,239.0,medio
+La Blanqueada,2.0,1.0,71.0,medio
+Pocitos,1.0,1.0,67.0,alto
+Atahualpa,4.0,2.0,100.0,medio
+Puerto Buceo,3.0,2.0,160.0,alto
+Pocitos,3.0,3.0,115.0,alto
+Centro,2.0,4.0,801.0,alto
+Carrasco,4.0,3.0,230.0,alto
+La Blanqueada,1.0,1.0,1.0,bajo
+Cordon,2.0,2.0,100.0,medio
+Cordon,1.0,1.0,4.0,medio
+Prado,3.0,2.0,120.0,alto
+Parque Batlle,2.0,4.0,405.0,alto
+Aguada,1.0,1.0,40.0,bajo
+Piedras Blancas,1.0,1.0,33.0,bajo
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Cerro,2.0,3.0,181.0,medio
+Prado,2.0,1.0,71.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Villa Española,1.0,1.0,40.0,bajo
+Punta Carretas,1.0,1.0,37.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Parque Rodo,3.0,3.0,114.0,alto
+Cordon,1.0,1.0,48.0,bajo
+Manga,4.0,2.0,632.0,alto
+Pocitos,1.0,1.0,67.0,alto
+Prado,2.0,1.0,65.0,medio
+Parque Batlle,2.0,4.0,405.0,alto
+Aguada,1.0,1.0,40.0,bajo
+Otros,2.0,1.0,1.0,alto
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Union,2.0,1.0,176.0,bajo
+Carrasco,2.0,3.0,139.0,alto
+Piedras Blancas,2.0,4.0,142.0,bajo
+Prado,3.0,2.0,388.0,alto
+Brazo Oriental,2.0,1.0,60.0,medio
+Malvin,2.0,1.0,80.0,medio
+La Blanqueada,2.0,1.0,49.0,bajo
+Centro,2.0,4.0,801.0,alto
+La Blanqueada,1.0,1.0,39.0,bajo
+Cordon,2.0,2.0,100.0,medio
+Prado,3.0,2.0,120.0,alto
+Malvin,2.0,2.0,71.0,alto
+Malvin,4.0,4.0,145.0,alto
+Punta Carretas,3.0,2.0,75.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Malvin Norte,2.0,1.0,749.0,bajo
+Atahualpa,2.0,1.0,100.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Villa Muñoz,2.0,1.0,54.0,medio
+Cerrito,2.0,1.0,300.0,bajo
+Prado,2.0,2.0,130.0,alto
+Puerto Buceo,4.0,2.0,160.0,alto
+Prado,4.0,4.0,507.0,alto
+Buceo,2.0,1.0,170.0,medio
+Malvin Norte,2.0,1.0,72.0,bajo
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Carrasco,4.0,4.0,150.0,alto
+Union,2.0,1.0,78.0,bajo
+La Blanqueada,2.0,1.0,50.0,medio
+Carrasco,2.0,1.0,1035.0,medio
+Pocitos,2.0,2.0,134.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Brazo Oriental,3.0,1.0,90.0,medio
+Prado,3.0,1.0,180.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Prado,3.0,2.0,90.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+Aguada,3.0,2.0,130.0,alto
+Tres Cruces,1.0,1.0,45.0,medio
+Puerto Buceo,3.0,2.0,160.0,alto
+Atahualpa,2.0,1.0,65.0,bajo
+La Blanqueada,1.0,1.0,1.0,bajo
+Aguada,2.0,1.0,86.0,bajo
+Malvin,2.0,2.0,72.0,alto
+Monoambiente,2.0,1.0,34.0,bajo
+Tres Cruces,2.0,3.0,336.0,alto
+La Blanqueada,3.0,2.0,73.0,medio
+Bella Vista,3.0,2.0,95.0,bajo
+Centro,1.0,1.0,60.0,medio
+Buceo,1.0,1.0,130.0,medio
+Belvedere,4.0,2.0,239.0,medio
+La Blanqueada,2.0,1.0,71.0,medio
+Reducto,2.0,1.0,67.0,bajo
+Tres Cruces,1.0,1.0,83.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Atahualpa,4.0,2.0,100.0,medio
+Pocitos,3.0,4.0,165.0,alto
+Pocitos,3.0,3.0,115.0,alto
+Carrasco,4.0,3.0,230.0,alto
+Cordon,1.0,1.0,4.0,medio
+Parque Rodo,2.0,4.0,300.0,alto
+Reducto,1.0,1.0,60.0,bajo
+Cerro,2.0,3.0,181.0,medio
+Aires Puros,2.0,3.0,340.0,medio
+Prado,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Pocitos,2.0,1.0,79.0,bajo
+Villa Española,1.0,1.0,40.0,bajo
+Punta Carretas,1.0,1.0,37.0,medio
+Centro,2.0,1.0,70.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Tres Cruces,2.0,1.0,50.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Parque Rodo,3.0,3.0,114.0,alto
+Pocitos,4.0,4.0,189.0,alto
+Punta Carretas,2.0,2.0,73.0,alto
+Cordon,1.0,1.0,48.0,bajo
+Prado,1.0,1.0,67.0,medio
+Parque Batlle,2.0,1.0,62.0,bajo
+Manga,4.0,2.0,632.0,alto
+Union,2.0,2.0,82.0,medio
+Pocitos,1.0,1.0,67.0,alto
+Prado,2.0,1.0,65.0,medio
+Centro,2.0,1.0,79.0,bajo
+Parque Batlle,2.0,4.0,405.0,alto
+Aguada,1.0,1.0,40.0,bajo
+Otros,2.0,1.0,1.0,alto
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Union,2.0,1.0,176.0,bajo
+Otros,1.0,1.0,517.0,alto
+Tres Cruces,1.0,1.0,42.0,medio
+Carrasco,2.0,3.0,139.0,alto
+Belvedere,2.0,1.0,195.0,bajo
+Piedras Blancas,2.0,4.0,142.0,bajo
+Prado,3.0,2.0,388.0,alto
+Cordon,1.0,1.0,54.0,medio
+Brazo Oriental,2.0,1.0,60.0,medio
+Malvin,2.0,1.0,80.0,medio
+La Blanqueada,2.0,1.0,49.0,bajo
+Goes,3.0,1.0,99.0,medio
+Jacinto Vera,2.0,1.0,70.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Centro,2.0,4.0,801.0,alto
+La Blanqueada,1.0,1.0,39.0,bajo
+Buceo,1.0,1.0,62.0,medio
+Cordon,2.0,1.0,60.0,alto
+Cordon,2.0,2.0,100.0,medio
+Prado,3.0,2.0,120.0,alto
+Punta Gorda,4.0,4.0,750.0,alto
+Malvin,2.0,2.0,71.0,alto
+Malvin,4.0,4.0,145.0,alto
+Punta Carretas,3.0,2.0,75.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Malvin Norte,2.0,1.0,749.0,bajo
+Monoambiente,2.0,1.0,32.0,bajo
+Monoambiente,2.0,1.0,34.0,bajo
+Atahualpa,2.0,1.0,100.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Aguada,1.0,1.0,38.0,bajo
+Villa Muñoz,2.0,1.0,54.0,medio
+Cerrito,2.0,1.0,300.0,bajo
+Prado,2.0,2.0,130.0,alto
+Puerto Buceo,4.0,2.0,160.0,alto
+Prado,4.0,4.0,507.0,alto
+Cordon,2.0,1.0,76.0,medio
+Buceo,2.0,1.0,170.0,medio
+Malvin Norte,2.0,1.0,72.0,bajo
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Carrasco,4.0,4.0,150.0,alto
+Reducto,2.0,1.0,99.0,medio
+Union,2.0,1.0,78.0,bajo
+La Blanqueada,2.0,1.0,50.0,medio
+Carrasco,2.0,1.0,1035.0,medio
+Centro,1.0,1.0,40.0,bajo
+Pocitos,2.0,2.0,134.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Brazo Oriental,3.0,1.0,90.0,medio
+Prado,3.0,1.0,180.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Prado,3.0,2.0,90.0,alto
+Malvin,2.0,1.0,55.0,medio
+Monoambiente,2.0,1.0,32.0,bajo
+Aguada,3.0,2.0,130.0,alto
+Tres Cruces,1.0,1.0,45.0,medio
+Cordon,1.0,1.0,70.0,bajo
+Puerto Buceo,3.0,2.0,160.0,alto
+Atahualpa,2.0,1.0,65.0,bajo
+La Blanqueada,1.0,1.0,1.0,bajo
+Capurro,4.0,2.0,252.0,medio
+Carrasco,3.0,3.0,200.0,alto
+Buceo,3.0,1.0,111.0,medio
+Aguada,2.0,1.0,86.0,bajo
+Malvin,2.0,2.0,72.0,alto
+Monoambiente,2.0,1.0,34.0,bajo
+Tres Cruces,2.0,3.0,336.0,alto
+La Blanqueada,3.0,2.0,73.0,medio
+Jacinto Vera,3.0,2.0,200.0,alto
+Maroñas,3.0,1.0,580.0,bajo
+Bella Vista,3.0,2.0,95.0,bajo
+Centro,1.0,1.0,60.0,medio
+Cordon,3.0,2.0,115.0,medio
+Belvedere,3.0,1.0,79.0,bajo
+Pocitos Nuevo,4.0,3.0,158.0,alto
+Buceo,1.0,1.0,130.0,medio
+Belvedere,4.0,2.0,239.0,medio
+La Blanqueada,2.0,1.0,71.0,medio
+Reducto,2.0,1.0,67.0,bajo
+Tres Cruces,1.0,1.0,83.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Belvedere,2.0,1.0,62.0,bajo
+Atahualpa,4.0,2.0,100.0,medio
+Pocitos,3.0,4.0,165.0,alto
+Pocitos,3.0,3.0,115.0,alto
+Carrasco,4.0,3.0,230.0,alto
+Cordon,1.0,1.0,4.0,medio
+Parque Rodo,2.0,4.0,300.0,alto
+Reducto,1.0,1.0,60.0,bajo
+Palermo,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,79.0,alto
+Jacinto Vera,3.0,1.0,80.0,medio
+Arroyo Seco,2.0,1.0,57.0,medio
+Cerro,2.0,3.0,181.0,medio
+Aires Puros,2.0,3.0,340.0,medio
+Prado,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Centro,2.0,1.0,28.0,bajo
+Prado,3.0,1.0,70.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Villa Española,1.0,1.0,40.0,bajo
+Carrasco,3.0,4.0,320.0,alto
+Punta Carretas,1.0,1.0,37.0,medio
+Centro,2.0,1.0,70.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Tres Cruces,2.0,1.0,50.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Parque Rodo,3.0,3.0,114.0,alto
+Pocitos,4.0,4.0,189.0,alto
+Punta Carretas,2.0,2.0,73.0,alto
+Cordon,1.0,1.0,48.0,bajo
+Prado,1.0,1.0,67.0,medio
+Malvin,2.0,1.0,50.0,medio
+Parque Batlle,2.0,1.0,62.0,bajo
+Manga,4.0,2.0,632.0,alto
+Union,2.0,2.0,82.0,medio
+Pocitos,1.0,1.0,67.0,alto
+Cerrito,2.0,4.0,1358.0,alto
+Prado,2.0,1.0,65.0,medio
+Centro,2.0,1.0,79.0,bajo
+Carrasco,2.0,4.0,382.0,alto
+Aguada,3.0,1.0,364.0,alto
+Colon,4.0,1.0,280.0,bajo
+Parque Batlle,2.0,4.0,405.0,alto
+Union,3.0,3.0,266.0,medio
+Aguada,1.0,1.0,40.0,bajo
+Otros,2.0,1.0,1.0,alto
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Union,2.0,1.0,176.0,bajo
+Otros,1.0,1.0,517.0,alto
+Tres Cruces,1.0,1.0,42.0,medio
+Tres Cruces,1.0,1.0,57.0,bajo
+Carrasco,2.0,3.0,139.0,alto
+Belvedere,2.0,1.0,195.0,bajo
+Piedras Blancas,2.0,4.0,142.0,bajo
+Monoambiente,2.0,3.0,486.0,alto
+Pocitos,2.0,2.0,156.0,alto
+Prado,3.0,2.0,388.0,alto
+Prado,2.0,1.0,50.0,bajo
+Cordon,1.0,1.0,54.0,medio
+Brazo Oriental,2.0,1.0,60.0,medio
+Malvin,2.0,1.0,80.0,medio
+La Blanqueada,2.0,1.0,49.0,bajo
+Goes,3.0,1.0,99.0,medio
+Jacinto Vera,2.0,1.0,70.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Reducto,2.0,1.0,70.0,medio
+Punta Carretas,1.0,1.0,52.0,medio
+Malvin,2.0,1.0,177.0,alto
+Centro,2.0,4.0,801.0,alto
+La Blanqueada,1.0,1.0,39.0,bajo
+Malvin,3.0,2.0,110.0,medio
+Buceo,1.0,1.0,62.0,medio
+Cordon,2.0,1.0,60.0,alto
+Cordon,2.0,2.0,100.0,medio
+Palermo,1.0,1.0,54.0,bajo
+Prado,3.0,2.0,120.0,alto
+Punta Gorda,4.0,4.0,750.0,alto
+Malvin,2.0,2.0,71.0,alto
+Malvin,4.0,4.0,145.0,alto
+Punta Carretas,3.0,2.0,75.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Malvin,3.0,2.0,220.0,medio
+Malvin Norte,2.0,1.0,749.0,bajo
+Monoambiente,2.0,1.0,32.0,bajo
+Monoambiente,2.0,1.0,34.0,bajo
+Belvedere,2.0,1.0,51.0,bajo
+Atahualpa,2.0,1.0,100.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Aguada,1.0,1.0,38.0,bajo
+Villa Muñoz,2.0,1.0,54.0,medio
+Cerrito,2.0,1.0,300.0,bajo
+Prado,2.0,2.0,130.0,alto
+Puerto Buceo,4.0,2.0,160.0,alto
+Barrio Sur,1.0,1.0,37.0,medio
+Prado,4.0,4.0,507.0,alto
+Cordon,2.0,1.0,76.0,medio
+Buceo,3.0,1.0,71.0,medio
+Buceo,2.0,1.0,170.0,medio
+Malvin Norte,2.0,1.0,72.0,bajo
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Carrasco,4.0,4.0,150.0,alto
+Palermo,2.0,1.0,54.0,medio
+Reducto,2.0,1.0,99.0,medio
+Union,2.0,1.0,78.0,bajo
+La Blanqueada,2.0,1.0,50.0,medio
+Carrasco,2.0,1.0,1035.0,medio
+Centro,1.0,1.0,40.0,bajo
+Pocitos,2.0,2.0,134.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Brazo Oriental,3.0,1.0,90.0,medio
+Prado,3.0,1.0,180.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Pocitos,3.0,3.0,133.0,alto
+Prado,3.0,2.0,90.0,alto
+Malvin,2.0,1.0,55.0,medio
+Pocitos,3.0,3.0,112.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+Aguada,3.0,2.0,130.0,alto
+Tres Cruces,1.0,1.0,45.0,medio
+Malvin,2.0,1.0,55.0,medio
+Cordon,1.0,1.0,70.0,bajo
+Puerto Buceo,3.0,2.0,160.0,alto
+Atahualpa,2.0,1.0,65.0,bajo
+La Blanqueada,1.0,1.0,1.0,bajo
+Capurro,4.0,2.0,252.0,medio
+Carrasco,3.0,3.0,200.0,alto
+Pocitos,3.0,4.0,216.0,alto
+Buceo,2.0,2.0,70.0,alto
+Buceo,3.0,1.0,111.0,medio
+Carrasco Norte,3.0,3.0,813.0,alto
+Aguada,2.0,1.0,86.0,bajo
+Malvin,2.0,2.0,72.0,alto
+Monoambiente,2.0,1.0,34.0,bajo
+Tres Cruces,2.0,3.0,336.0,alto
+La Blanqueada,3.0,2.0,73.0,medio
+Jacinto Vera,3.0,2.0,200.0,alto
+Maroñas,3.0,1.0,580.0,bajo
+Bella Vista,3.0,2.0,95.0,bajo
+Centro,1.0,1.0,60.0,medio
+Cordon,3.0,2.0,115.0,medio
+La Blanqueada,1.0,1.0,60.0,bajo
+Belvedere,3.0,1.0,79.0,bajo
+Pocitos Nuevo,4.0,3.0,158.0,alto
+Atahualpa,4.0,2.0,100.0,medio
+Buceo,1.0,1.0,130.0,medio
+Pocitos,2.0,1.0,20.0,bajo
+Belvedere,4.0,2.0,239.0,medio
+La Blanqueada,2.0,1.0,71.0,medio
+Reducto,2.0,1.0,67.0,bajo
+Tres Cruces,1.0,1.0,83.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Belvedere,2.0,1.0,62.0,bajo
+Punta Gorda,3.0,2.0,120.0,alto
+Centro,2.0,2.0,80.0,medio
+Ciudad Vieja,2.0,1.0,81.0,medio
+Atahualpa,4.0,2.0,100.0,medio
+Pocitos,3.0,4.0,165.0,alto
+Pocitos,3.0,3.0,115.0,alto
+Carrasco,4.0,3.0,230.0,alto
+Cordon,1.0,1.0,4.0,medio
+Pocitos,2.0,2.0,96.0,alto
+Buceo,1.0,1.0,50.0,medio
+Parque Rodo,2.0,4.0,300.0,alto
+Reducto,1.0,1.0,60.0,bajo
+Buceo,3.0,2.0,178.0,alto
+Palermo,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,79.0,alto
+Jacinto Vera,3.0,1.0,80.0,medio
+Cordon,1.0,1.0,38.0,bajo
+Arroyo Seco,2.0,1.0,57.0,medio
+Cerro,2.0,3.0,181.0,medio
+Aires Puros,2.0,3.0,340.0,medio
+Prado,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Centro,2.0,1.0,28.0,bajo
+Prado,3.0,1.0,70.0,medio
+Prado,3.0,2.0,192.0,alto
+Pocitos,2.0,1.0,79.0,bajo
+Villa Española,1.0,1.0,40.0,bajo
+Aires Puros,4.0,2.0,410.0,bajo
+Carrasco,3.0,4.0,320.0,alto
+Punta Carretas,1.0,1.0,37.0,medio
+Centro,2.0,1.0,70.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Tres Cruces,2.0,1.0,50.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Parque Rodo,3.0,3.0,114.0,alto
+Pocitos,4.0,4.0,189.0,alto
+Punta Carretas,2.0,2.0,73.0,alto
+Cordon,1.0,1.0,48.0,bajo
+Prado,1.0,1.0,67.0,medio
+Malvin,2.0,1.0,50.0,medio
+Parque Batlle,2.0,1.0,62.0,bajo
+Manga,4.0,2.0,632.0,alto
+Union,2.0,2.0,82.0,medio
+Pocitos,1.0,1.0,67.0,alto
+Cerrito,2.0,4.0,1358.0,alto
+Prado,2.0,1.0,65.0,medio
+Malvin Norte,3.0,2.0,100.0,alto
+Centro,2.0,1.0,79.0,bajo
+Carrasco,2.0,4.0,382.0,alto
+Malvin,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Centro,1.0,1.0,44.0,bajo
+Aguada,3.0,1.0,364.0,alto
+Colon,4.0,1.0,280.0,bajo
+Parque Batlle,2.0,4.0,405.0,alto
+Union,3.0,3.0,266.0,medio
+Aguada,1.0,1.0,40.0,bajo
+Otros,2.0,1.0,1.0,alto
+Pocitos,2.0,1.0,59.0,medio
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Union,2.0,1.0,176.0,bajo
+Otros,1.0,1.0,517.0,alto
+Tres Cruces,1.0,1.0,42.0,medio
+Tres Cruces,1.0,1.0,57.0,bajo
+Punta Carretas,4.0,2.0,81.0,alto
+Carrasco,2.0,3.0,139.0,alto
+Belvedere,2.0,1.0,195.0,bajo
+Barrio Sur,2.0,1.0,71.0,medio
+Piedras Blancas,2.0,4.0,142.0,bajo
+Monoambiente,2.0,3.0,486.0,alto
+Punta Carretas,2.0,2.0,169.0,alto
+Pocitos,2.0,2.0,156.0,alto
+Prado,3.0,2.0,388.0,alto
+Malvin,1.0,1.0,50.0,medio
+Prado,2.0,1.0,50.0,bajo
+Cordon,1.0,1.0,54.0,medio
+Brazo Oriental,2.0,1.0,60.0,medio
+Malvin,2.0,1.0,80.0,medio
+La Blanqueada,2.0,1.0,49.0,bajo
+Goes,3.0,1.0,99.0,medio
+Jacinto Vera,2.0,1.0,70.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Reducto,2.0,1.0,70.0,medio
+Centro,3.0,2.0,165.0,alto
+Punta Carretas,1.0,1.0,52.0,medio
+Malvin,2.0,1.0,177.0,alto
+Centro,2.0,4.0,801.0,alto
+Parque Batlle,2.0,2.0,60.0,alto
+Tres Cruces,1.0,1.0,49.0,medio
+La Blanqueada,1.0,1.0,39.0,bajo
+Malvin,3.0,2.0,110.0,medio
+Buceo,1.0,1.0,62.0,medio
+Cordon,2.0,1.0,60.0,alto
+Cordon,2.0,2.0,100.0,medio
+Palermo,1.0,1.0,54.0,bajo
+Union,1.0,1.0,36.0,medio
+Prado,3.0,2.0,120.0,alto
+Punta Gorda,4.0,4.0,750.0,alto
+Monoambiente,2.0,1.0,50.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Malvin,2.0,2.0,71.0,alto
+Malvin,4.0,4.0,145.0,alto
+Punta Carretas,3.0,2.0,75.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Malvin,3.0,2.0,220.0,medio
+Malvin Norte,2.0,1.0,749.0,bajo
+Monoambiente,2.0,1.0,32.0,bajo
+Monoambiente,2.0,1.0,34.0,bajo
+Belvedere,2.0,1.0,51.0,bajo
+Atahualpa,2.0,1.0,100.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Aguada,1.0,1.0,38.0,bajo
+Villa Muñoz,2.0,1.0,54.0,medio
+Cerrito,2.0,1.0,300.0,bajo
+Prado,2.0,2.0,130.0,alto
+Puerto Buceo,4.0,2.0,160.0,alto
+Barrio Sur,1.0,1.0,37.0,medio
+Prado,4.0,4.0,507.0,alto
+Cordon,2.0,1.0,76.0,medio
+Buceo,3.0,1.0,71.0,medio
+Buceo,2.0,1.0,170.0,medio
+Malvin Norte,2.0,1.0,72.0,bajo
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Carrasco,4.0,4.0,150.0,alto
+Palermo,2.0,1.0,54.0,medio
+Reducto,2.0,1.0,99.0,medio
+Malvin Norte,3.0,1.0,74.0,bajo
+Union,2.0,1.0,78.0,bajo
+La Blanqueada,2.0,1.0,50.0,medio
+Carrasco,2.0,1.0,1035.0,medio
+Centro,1.0,1.0,40.0,bajo
+Pocitos,2.0,2.0,134.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Brazo Oriental,3.0,1.0,90.0,medio
+La Comercial,2.0,1.0,55.0,bajo
+Prado,3.0,1.0,180.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Pocitos,3.0,3.0,133.0,alto
+Barrio Sur,1.0,1.0,47.0,bajo
+Prado,3.0,2.0,90.0,alto
+Malvin,2.0,1.0,55.0,medio
+Pocitos,3.0,3.0,112.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+Aguada,3.0,2.0,130.0,alto
+Tres Cruces,1.0,1.0,45.0,medio
+Pocitos,2.0,1.0,124.0,alto
+Malvin,2.0,1.0,55.0,medio
+Cordon,1.0,1.0,70.0,bajo
+Puerto Buceo,3.0,2.0,160.0,alto
+Pocitos Nuevo,3.0,1.0,135.0,alto
+Atahualpa,2.0,1.0,65.0,bajo
+Malvin Norte,1.0,1.0,45.0,bajo
+La Blanqueada,1.0,1.0,1.0,bajo
+Capurro,4.0,2.0,252.0,medio
+Carrasco,3.0,3.0,200.0,alto
+La Blanqueada,2.0,1.0,74.0,medio
+Monoambiente,2.0,1.0,39.0,bajo
+Punta Carretas,4.0,3.0,177.0,alto
+Pocitos,3.0,4.0,216.0,alto
+Buceo,2.0,2.0,70.0,alto
+Monoambiente,2.0,1.0,21.0,bajo
+Buceo,3.0,1.0,111.0,medio
+La Blanqueada,1.0,1.0,52.0,bajo
+Carrasco Norte,3.0,3.0,813.0,alto
+Aguada,2.0,1.0,86.0,bajo
+Cordon,2.0,1.0,45.0,bajo
+Malvin,2.0,2.0,72.0,alto
+Pocitos,1.0,1.0,64.0,medio
+Monoambiente,2.0,1.0,34.0,bajo
+La Comercial,2.0,3.0,978.0,alto
+Tres Cruces,2.0,3.0,336.0,alto
+La Blanqueada,3.0,2.0,73.0,medio
+Barrio Sur,2.0,1.0,55.0,medio
+Jacinto Vera,3.0,2.0,200.0,alto
+Maroñas,3.0,1.0,580.0,bajo
+Centro,4.0,2.0,94.0,medio
+Bella Vista,3.0,2.0,95.0,bajo
+Union,1.0,1.0,44.0,bajo
+Centro,1.0,1.0,60.0,medio
+Cordon,3.0,2.0,115.0,medio
+La Blanqueada,1.0,1.0,60.0,bajo
+Belvedere,3.0,1.0,79.0,bajo
+Pocitos Nuevo,4.0,3.0,158.0,alto
+Atahualpa,4.0,2.0,100.0,medio
+Buceo,1.0,1.0,130.0,medio
+Ciudad Vieja,2.0,1.0,79.0,medio
+Buceo,2.0,1.0,39.0,bajo
+Pocitos,2.0,1.0,20.0,bajo
+Belvedere,4.0,2.0,239.0,medio
+La Blanqueada,2.0,1.0,71.0,medio
+Reducto,2.0,1.0,67.0,bajo
+Tres Cruces,1.0,1.0,83.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Belvedere,2.0,1.0,62.0,bajo
+Punta Gorda,3.0,2.0,120.0,alto
+Centro,2.0,2.0,80.0,medio
+Ciudad Vieja,2.0,1.0,81.0,medio
+Pocitos,3.0,2.0,124.0,medio
+Atahualpa,4.0,2.0,100.0,medio
+Arroyo Seco,2.0,1.0,53.0,medio
+Pocitos,3.0,4.0,165.0,alto
+Malvin,2.0,2.0,77.0,alto
+Pocitos,3.0,3.0,115.0,alto
+Atahualpa,1.0,1.0,54.0,bajo
+Carrasco,4.0,3.0,230.0,alto
+Cordon,1.0,1.0,4.0,medio
+Pocitos,2.0,2.0,96.0,alto
+Buceo,1.0,1.0,50.0,medio
+Parque Rodo,2.0,4.0,300.0,alto
+Reducto,1.0,1.0,60.0,bajo
+Buceo,3.0,2.0,178.0,alto
+Palermo,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,79.0,alto
+Jacinto Vera,3.0,1.0,80.0,medio
+Cordon,1.0,1.0,38.0,bajo
+Arroyo Seco,2.0,1.0,57.0,medio
+Cerro,2.0,3.0,181.0,medio
+Aires Puros,2.0,3.0,340.0,medio
+Prado,2.0,1.0,71.0,medio
+Centro,2.0,1.0,28.0,bajo
+Prado,3.0,1.0,70.0,medio
+Prado,3.0,2.0,192.0,alto
+Tres Cruces,3.0,2.0,70.0,bajo
+Pocitos,2.0,1.0,79.0,bajo
+Villa Española,1.0,1.0,40.0,bajo
+Aires Puros,4.0,2.0,410.0,bajo
+Carrasco,3.0,4.0,320.0,alto
+Punta Carretas,1.0,1.0,37.0,medio
+Centro,2.0,1.0,70.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Tres Cruces,2.0,1.0,50.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Parque Rodo,3.0,3.0,114.0,alto
+Pocitos,4.0,4.0,189.0,alto
+Punta Carretas,2.0,2.0,73.0,alto
+Reducto,3.0,1.0,75.0,bajo
+Cordon,1.0,1.0,48.0,bajo
+Goes,3.0,2.0,120.0,medio
+Parque Rodo,2.0,1.0,67.0,medio
+Prado,1.0,1.0,67.0,medio
+Malvin,2.0,1.0,50.0,medio
+Parque Batlle,2.0,1.0,62.0,bajo
+Manga,4.0,2.0,632.0,alto
+Union,2.0,2.0,82.0,medio
+Pocitos,1.0,1.0,67.0,alto
+Cerrito,2.0,4.0,1358.0,alto
+Prado,2.0,1.0,65.0,medio
+Atahualpa,3.0,2.0,382.0,alto
+Malvin Norte,3.0,2.0,100.0,alto
+Centro,2.0,1.0,79.0,bajo
+Carrasco,2.0,4.0,382.0,alto
+Malvin,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Centro,1.0,1.0,44.0,bajo
+Aguada,3.0,1.0,364.0,alto
+Colon,4.0,1.0,280.0,bajo
+Parque Batlle,2.0,4.0,405.0,alto
+Union,3.0,3.0,266.0,medio
+Aguada,1.0,1.0,40.0,bajo
+Otros,2.0,1.0,1.0,alto
+Pocitos,2.0,1.0,59.0,medio
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Cordon,3.0,2.0,80.0,medio
+Prado,2.0,1.0,68.0,medio
+Monoambiente,2.0,1.0,31.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Union,2.0,1.0,176.0,bajo
+Otros,1.0,1.0,517.0,alto
+Jacinto Vera,2.0,1.0,562.0,alto
+Tres Cruces,1.0,1.0,42.0,medio
+Tres Cruces,1.0,1.0,57.0,bajo
+Punta Carretas,4.0,2.0,81.0,alto
+Carrasco,2.0,3.0,139.0,alto
+Belvedere,2.0,1.0,195.0,bajo
+Barrio Sur,2.0,1.0,71.0,medio
+Piedras Blancas,2.0,4.0,142.0,bajo
+Monoambiente,2.0,3.0,486.0,alto
+Punta Carretas,2.0,2.0,169.0,alto
+Pocitos,2.0,2.0,156.0,alto
+Ciudad Vieja,2.0,4.0,385.0,alto
+Prado,3.0,2.0,388.0,alto
+Malvin,1.0,1.0,50.0,medio
+Prado,2.0,1.0,50.0,bajo
+Cordon,1.0,1.0,54.0,medio
+La Blanqueada,3.0,2.0,107.0,medio
+Brazo Oriental,2.0,1.0,60.0,medio
+Centro,1.0,1.0,40.0,bajo
+Malvin,2.0,1.0,80.0,medio
+Punta Carretas,2.0,1.0,8.0,bajo
+La Blanqueada,1.0,1.0,55.0,medio
+Pocitos,2.0,4.0,500.0,alto
+La Blanqueada,2.0,1.0,49.0,bajo
+Goes,3.0,1.0,99.0,medio
+Jacinto Vera,2.0,1.0,70.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Reducto,2.0,1.0,70.0,medio
+Centro,3.0,2.0,165.0,alto
+Punta Carretas,1.0,1.0,52.0,medio
+Malvin,2.0,1.0,177.0,alto
+Centro,2.0,4.0,801.0,alto
+Parque Batlle,2.0,2.0,60.0,alto
+Tres Cruces,1.0,1.0,49.0,medio
+Aguada,1.0,1.0,30.0,bajo
+La Blanqueada,1.0,1.0,39.0,bajo
+Malvin,3.0,2.0,110.0,medio
+Buceo,1.0,1.0,62.0,medio
+Cordon,2.0,1.0,60.0,alto
+Cordon,2.0,2.0,100.0,medio
+Palermo,1.0,1.0,54.0,bajo
+Union,1.0,1.0,36.0,medio
+Prado,3.0,2.0,120.0,alto
+Punta Gorda,4.0,4.0,750.0,alto
+Monoambiente,2.0,1.0,50.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Malvin,2.0,2.0,71.0,alto
+Malvin,4.0,4.0,145.0,alto
+Punta Carretas,3.0,2.0,75.0,alto
+Ciudad Vieja,3.0,2.0,105.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Malvin,3.0,2.0,220.0,medio
+Aguada,2.0,1.0,55.0,bajo
+Malvin Norte,2.0,1.0,749.0,bajo
+Monoambiente,2.0,1.0,32.0,bajo
+Monoambiente,2.0,1.0,34.0,bajo
+Belvedere,2.0,1.0,51.0,bajo
+Atahualpa,2.0,1.0,100.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Aguada,1.0,1.0,38.0,bajo
+Malvin,3.0,3.0,129.0,alto
+Monoambiente,2.0,1.0,35.0,bajo
+Villa Muñoz,2.0,1.0,54.0,medio
+Cerrito,2.0,1.0,300.0,bajo
+Prado,2.0,2.0,130.0,alto
+Puerto Buceo,4.0,2.0,160.0,alto
+Barrio Sur,1.0,1.0,37.0,medio
+Prado,4.0,4.0,507.0,alto
+Cordon,2.0,1.0,76.0,medio
+Buceo,3.0,1.0,71.0,medio
+Buceo,2.0,1.0,170.0,medio
+Malvin Norte,2.0,1.0,72.0,bajo
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Carrasco,4.0,4.0,150.0,alto
+Palermo,2.0,1.0,54.0,medio
+Malvin Norte,1.0,1.0,35.0,bajo
+Reducto,2.0,1.0,99.0,medio
+Malvin Norte,3.0,1.0,74.0,bajo
+Cordon,2.0,1.0,54.0,medio
+Union,2.0,1.0,78.0,bajo
+La Blanqueada,2.0,1.0,50.0,medio
+Carrasco,2.0,1.0,1035.0,medio
+Centro,1.0,1.0,40.0,bajo
+Pocitos,2.0,2.0,134.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Buceo,2.0,2.0,272.0,alto
+Brazo Oriental,3.0,1.0,90.0,medio
+La Comercial,2.0,1.0,55.0,bajo
+Prado,3.0,1.0,180.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Pocitos,3.0,3.0,133.0,alto
+Barrio Sur,1.0,1.0,47.0,bajo
+Prado,3.0,2.0,90.0,alto
+Malvin,2.0,1.0,55.0,medio
+Centro,2.0,1.0,101.0,medio
+Pocitos,3.0,3.0,112.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+Aguada,3.0,2.0,130.0,alto
+Prado,3.0,2.0,107.0,medio
+Tres Cruces,1.0,1.0,45.0,medio
+Pocitos,2.0,1.0,124.0,alto
+Malvin,2.0,1.0,55.0,medio
+Reducto,3.0,1.0,55.0,bajo
+Cordon,1.0,1.0,70.0,bajo
+Monoambiente,2.0,1.0,21.0,bajo
+Centro,4.0,2.0,148.0,alto
+Cordon,1.0,1.0,39.0,bajo
+Puerto Buceo,3.0,2.0,160.0,alto
+Pocitos Nuevo,3.0,1.0,135.0,alto
+Atahualpa,2.0,1.0,65.0,bajo
+Malvin Norte,1.0,1.0,45.0,bajo
+La Blanqueada,1.0,1.0,1.0,bajo
+Capurro,4.0,2.0,252.0,medio
+Palermo,3.0,2.0,131.0,alto
+Carrasco,3.0,3.0,200.0,alto
+La Blanqueada,2.0,1.0,74.0,medio
+Monoambiente,2.0,1.0,39.0,bajo
+Punta Carretas,4.0,3.0,177.0,alto
+Pocitos,3.0,4.0,216.0,alto
+Prado,2.0,3.0,558.0,alto
+Cordon,1.0,1.0,64.0,medio
+Buceo,2.0,2.0,70.0,alto
+Monoambiente,2.0,1.0,21.0,bajo
+Buceo,3.0,1.0,111.0,medio
+La Blanqueada,1.0,1.0,52.0,bajo
+Golf,2.0,3.0,191.0,alto
+Carrasco Norte,3.0,3.0,813.0,alto
+Aguada,2.0,1.0,86.0,bajo
+Cordon,2.0,1.0,45.0,bajo
+Malvin,2.0,2.0,72.0,alto
+Pocitos,1.0,1.0,64.0,medio
+Monoambiente,2.0,1.0,34.0,bajo
+La Comercial,2.0,3.0,978.0,alto
+Tres Cruces,2.0,3.0,336.0,alto
+La Blanqueada,3.0,2.0,73.0,medio
+Barrio Sur,2.0,1.0,55.0,medio
+Jacinto Vera,3.0,2.0,200.0,alto
+Maroñas,3.0,1.0,580.0,bajo
+Centro,4.0,2.0,94.0,medio
+La Blanqueada,2.0,1.0,51.0,bajo
+Bella Vista,3.0,2.0,95.0,bajo
+Union,1.0,1.0,44.0,bajo
+Centro,1.0,1.0,60.0,medio
+Cordon,3.0,2.0,115.0,medio
+La Blanqueada,1.0,1.0,60.0,bajo
+Belvedere,3.0,1.0,79.0,bajo
+Pocitos Nuevo,4.0,3.0,158.0,alto
+Atahualpa,4.0,2.0,100.0,medio
+Buceo,1.0,1.0,130.0,medio
+Ciudad Vieja,2.0,1.0,79.0,medio
+Buceo,2.0,1.0,39.0,bajo
+Pocitos,2.0,1.0,20.0,bajo
+Belvedere,4.0,2.0,239.0,medio
+La Blanqueada,2.0,1.0,71.0,medio
+Reducto,2.0,1.0,67.0,bajo
+Tres Cruces,1.0,1.0,83.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Belvedere,2.0,1.0,62.0,bajo
+Punta Gorda,3.0,2.0,120.0,alto
+Centro,2.0,2.0,80.0,medio
+Ciudad Vieja,2.0,1.0,81.0,medio
+Pocitos,3.0,2.0,124.0,medio
+Atahualpa,4.0,2.0,100.0,medio
+Arroyo Seco,2.0,1.0,53.0,medio
+Pocitos,3.0,4.0,165.0,alto
+Malvin,2.0,2.0,77.0,alto
+Brazo Oriental,2.0,1.0,79.0,bajo
+Pocitos,3.0,3.0,115.0,alto
+Atahualpa,1.0,1.0,54.0,bajo
+Carrasco,4.0,3.0,230.0,alto
+Centro,2.0,2.0,90.0,medio
+Centro,2.0,4.0,577.0,alto
+Cordon,1.0,1.0,4.0,medio
+Pocitos,2.0,2.0,96.0,alto
+Buceo,1.0,1.0,50.0,medio
+Monoambiente,2.0,1.0,38.0,bajo
+Parque Rodo,2.0,4.0,300.0,alto
+Cordon,3.0,2.0,87.0,medio
+Reducto,1.0,1.0,60.0,bajo
+Buceo,3.0,2.0,178.0,alto
+Palermo,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,79.0,alto
+Jacinto Vera,3.0,1.0,80.0,medio
+Cordon,1.0,1.0,38.0,bajo
+Aguada,2.0,1.0,54.0,bajo
+Arroyo Seco,2.0,1.0,57.0,medio
+Cerro,2.0,3.0,181.0,medio
+Aires Puros,2.0,3.0,340.0,medio
+Prado,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Centro,2.0,1.0,28.0,bajo
+Prado,3.0,1.0,70.0,medio
+Prado,3.0,2.0,192.0,alto
+Tres Cruces,3.0,2.0,70.0,bajo
+La Blanqueada,1.0,1.0,43.0,bajo
+Pocitos,2.0,1.0,79.0,bajo
+Punta Carretas,2.0,1.0,79.0,bajo
+Villa Española,1.0,1.0,40.0,bajo
+Aires Puros,4.0,2.0,410.0,bajo
+Carrasco,3.0,4.0,320.0,alto
+Punta Carretas,1.0,1.0,37.0,medio
+Centro,2.0,1.0,70.0,medio
+Palermo,2.0,1.0,79.0,alto
+Cordon,2.0,1.0,45.0,bajo
+Tres Cruces,2.0,1.0,50.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Parque Rodo,3.0,3.0,114.0,alto
+Pocitos,4.0,4.0,189.0,alto
+Punta Carretas,2.0,2.0,73.0,alto
+Reducto,3.0,1.0,75.0,bajo
+Cordon,1.0,1.0,48.0,bajo
+Goes,3.0,2.0,120.0,medio
+Manga,2.0,1.0,86.0,bajo
+Carrasco,2.0,1.0,58.0,medio
+Parque Rodo,2.0,1.0,67.0,medio
+Prado,1.0,1.0,67.0,medio
+Malvin,2.0,1.0,50.0,medio
+Colon,3.0,1.0,260.0,bajo
+Parque Batlle,2.0,1.0,62.0,bajo
+Union,2.0,2.0,82.0,medio
+Carrasco,3.0,1.0,80.0,medio
+Pocitos,1.0,1.0,67.0,alto
+Cerrito,2.0,4.0,1358.0,alto
+Prado,2.0,1.0,65.0,medio
+Atahualpa,3.0,2.0,382.0,alto
+Malvin Norte,3.0,2.0,100.0,alto
+Centro,2.0,1.0,79.0,bajo
+Carrasco,2.0,4.0,382.0,alto
+Malvin,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Centro,1.0,1.0,44.0,bajo
+Aguada,3.0,1.0,364.0,alto
+Colon,4.0,1.0,280.0,bajo
+Parque Batlle,2.0,4.0,405.0,alto
+Union,3.0,3.0,266.0,medio
+Monoambiente,2.0,1.0,43.0,medio
+Aguada,1.0,1.0,40.0,bajo
+Otros,2.0,1.0,1.0,alto
+Pocitos,2.0,1.0,59.0,medio
+Cordon,2.0,1.0,77.0,medio
+Malvin,3.0,3.0,200.0,alto
+Pocitos,2.0,1.0,79.0,bajo
+Cordon,3.0,2.0,80.0,medio
+Prado,2.0,1.0,68.0,medio
+Monoambiente,2.0,1.0,31.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Union,2.0,1.0,176.0,bajo
+Otros,1.0,1.0,517.0,alto
+Jacinto Vera,2.0,1.0,562.0,alto
+Puerto Buceo,2.0,2.0,67.0,medio
+Tres Cruces,1.0,1.0,58.0,bajo
+Tres Cruces,1.0,1.0,42.0,medio
+Tres Cruces,1.0,1.0,57.0,bajo
+Reducto,2.0,1.0,60.0,bajo
+Punta Carretas,4.0,2.0,81.0,alto
+Carrasco,2.0,3.0,139.0,alto
+Belvedere,2.0,1.0,195.0,bajo
+Tres Cruces,1.0,1.0,58.0,bajo
+Barrio Sur,2.0,1.0,71.0,medio
+Piedras Blancas,2.0,4.0,142.0,bajo
+Monoambiente,2.0,3.0,486.0,alto
+Punta Carretas,2.0,2.0,169.0,alto
+Pocitos,2.0,2.0,156.0,alto
+Ciudad Vieja,2.0,4.0,385.0,alto
+Brazo Oriental,2.0,3.0,242.0,alto
+Prado,3.0,2.0,388.0,alto
+Centro,4.0,4.0,176.0,alto
+Malvin,1.0,1.0,50.0,medio
+Punta Carretas,2.0,1.0,754.0,alto
+Prado,2.0,1.0,50.0,bajo
+Cordon,1.0,1.0,54.0,medio
+La Blanqueada,3.0,2.0,107.0,medio
+Brazo Oriental,2.0,1.0,60.0,medio
+Centro,1.0,1.0,40.0,bajo
+Malvin,2.0,1.0,80.0,medio
+Punta Carretas,2.0,1.0,8.0,bajo
+10 Has.,2.0,1.0,79.0,alto
+La Blanqueada,1.0,1.0,55.0,medio
+Pocitos,2.0,4.0,500.0,alto
+La Blanqueada,3.0,1.0,80.0,medio
+Cordon,1.0,1.0,57.0,medio
+La Blanqueada,2.0,1.0,49.0,bajo
+Goes,3.0,1.0,99.0,medio
+Jacinto Vera,2.0,1.0,70.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Reducto,2.0,1.0,70.0,medio
+Centro,3.0,2.0,165.0,alto
+Punta Carretas,1.0,1.0,52.0,medio
+Malvin,2.0,1.0,177.0,alto
+Centro,2.0,4.0,801.0,alto
+Parque Batlle,2.0,2.0,60.0,alto
+Tres Cruces,1.0,1.0,49.0,medio
+Aguada,1.0,1.0,30.0,bajo
+La Blanqueada,1.0,1.0,39.0,bajo
+Malvin,3.0,2.0,110.0,medio
+Buceo,1.0,1.0,62.0,medio
+Cordon,2.0,1.0,60.0,alto
+Cordon,2.0,2.0,100.0,medio
+Palermo,1.0,1.0,54.0,bajo
+Monoambiente,2.0,2.0,217.0,medio
+Union,1.0,1.0,36.0,medio
+Prado,3.0,2.0,120.0,alto
+Punta Gorda,4.0,4.0,750.0,alto
+Monoambiente,2.0,1.0,50.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Malvin,2.0,2.0,71.0,alto
+Malvin,4.0,4.0,145.0,alto
+Punta Carretas,3.0,2.0,75.0,alto
+Ciudad Vieja,3.0,2.0,105.0,alto
+Pocitos Nuevo,4.0,3.0,233.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Malvin,3.0,2.0,220.0,medio
+Aguada,2.0,1.0,55.0,bajo
+Malvin Norte,2.0,1.0,749.0,bajo
+Monoambiente,2.0,1.0,32.0,bajo
+Otros,2.0,4.0,755.0,alto
+Monoambiente,2.0,1.0,34.0,bajo
+Belvedere,2.0,1.0,51.0,bajo
+Atahualpa,2.0,1.0,100.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Aguada,1.0,1.0,38.0,bajo
+Malvin,3.0,3.0,129.0,alto
+Monoambiente,2.0,1.0,35.0,bajo
+Villa Muñoz,2.0,1.0,54.0,medio
+Punta Carretas,1.0,1.0,50.0,medio
+Cerrito,2.0,1.0,300.0,bajo
+Prado,2.0,2.0,130.0,alto
+Puerto Buceo,4.0,2.0,160.0,alto
+Barrio Sur,1.0,1.0,37.0,medio
+Prado,4.0,4.0,507.0,alto
+Cordon,2.0,1.0,76.0,medio
+Buceo,3.0,1.0,71.0,medio
+Buceo,2.0,1.0,170.0,medio
+Malvin Norte,2.0,1.0,72.0,bajo
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Pocitos,2.0,3.0,66.0,alto
+Carrasco,4.0,4.0,150.0,alto
+Palermo,2.0,1.0,54.0,medio
+Malvin Norte,1.0,1.0,35.0,bajo
+Reducto,2.0,1.0,99.0,medio
+Malvin Norte,3.0,1.0,74.0,bajo
+Cordon,2.0,1.0,54.0,medio
+Union,2.0,1.0,78.0,bajo
+La Blanqueada,2.0,1.0,50.0,medio
+Carrasco,2.0,1.0,1035.0,medio
+Centro,1.0,1.0,40.0,bajo
+Peñarol,2.0,1.0,8747.0,alto
+Pocitos,2.0,2.0,134.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Buceo,2.0,2.0,272.0,alto
+Brazo Oriental,3.0,1.0,90.0,medio
+La Comercial,2.0,1.0,55.0,bajo
+Prado,3.0,1.0,180.0,medio
+Monoambiente,2.0,1.0,46.0,bajo
+Pocitos,3.0,3.0,133.0,alto
+Barrio Sur,1.0,1.0,47.0,bajo
+Prado,3.0,2.0,90.0,alto
+Malvin,2.0,1.0,55.0,medio
+Centro,2.0,1.0,101.0,medio
+Pocitos,3.0,3.0,112.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+Aguada,3.0,2.0,130.0,alto
+Prado,3.0,2.0,107.0,medio
+Tres Cruces,1.0,1.0,45.0,medio
+Pocitos,2.0,1.0,124.0,alto
+Malvin,2.0,1.0,55.0,medio
+Reducto,3.0,1.0,55.0,bajo
+Cordon,1.0,1.0,70.0,bajo
+Monoambiente,2.0,1.0,21.0,bajo
+Centro,4.0,2.0,148.0,alto
+Cordon,1.0,1.0,39.0,bajo
+Puerto Buceo,3.0,2.0,160.0,alto
+Pocitos Nuevo,3.0,1.0,135.0,alto
+Pocitos,3.0,3.0,137.0,alto
+Atahualpa,2.0,1.0,65.0,bajo
+Malvin Norte,1.0,1.0,45.0,bajo
+Tres Cruces,1.0,1.0,38.0,bajo
+La Blanqueada,1.0,1.0,1.0,bajo
+Capurro,4.0,2.0,252.0,medio
+Palermo,3.0,2.0,131.0,alto
+Carrasco,3.0,3.0,200.0,alto
+Centro,2.0,4.0,576.0,alto
+La Blanqueada,2.0,1.0,74.0,medio
+Punta Gorda,2.0,2.0,305.0,alto
+Cordon,1.0,1.0,53.0,medio
+Monoambiente,2.0,1.0,39.0,bajo
+Punta Carretas,4.0,3.0,177.0,alto
+Pocitos,3.0,4.0,216.0,alto
+Prado,2.0,3.0,558.0,alto
+Cordon,1.0,1.0,64.0,medio
+Buceo,2.0,2.0,70.0,alto
+Monoambiente,2.0,1.0,21.0,bajo
+Buceo,3.0,1.0,111.0,medio
+La Blanqueada,1.0,1.0,52.0,bajo
+Golf,2.0,3.0,191.0,alto
+Carrasco Norte,3.0,3.0,813.0,alto
+Brazo Oriental,4.0,1.0,600.0,medio
+Aguada,2.0,1.0,86.0,bajo
+Cordon,2.0,1.0,45.0,bajo
+Malvin,2.0,2.0,72.0,alto
+Pocitos,2.0,2.0,98.0,alto
+Pocitos,1.0,1.0,64.0,medio
+Monoambiente,2.0,1.0,34.0,bajo
+La Comercial,2.0,3.0,978.0,alto
+Tres Cruces,2.0,3.0,336.0,alto
+Pocitos,3.0,2.0,104.0,alto
+La Blanqueada,3.0,2.0,73.0,medio
+Barrio Sur,2.0,1.0,55.0,medio
+Reducto,2.0,1.0,61.0,bajo
+Jacinto Vera,3.0,2.0,200.0,alto
+Maroñas,3.0,1.0,580.0,bajo
+Centro,4.0,2.0,94.0,medio
+La Blanqueada,2.0,1.0,51.0,bajo
+Bella Vista,3.0,2.0,95.0,bajo
+Monoambiente,2.0,1.0,32.0,bajo
+Union,1.0,1.0,44.0,bajo
+Centro,1.0,1.0,60.0,medio
+Cordon,3.0,2.0,115.0,medio
+La Blanqueada,1.0,1.0,60.0,bajo
+Belvedere,3.0,1.0,79.0,bajo
+Pocitos Nuevo,4.0,3.0,158.0,alto
+Atahualpa,4.0,2.0,100.0,medio
+Buceo,1.0,1.0,130.0,medio
+Ciudad Vieja,2.0,1.0,79.0,medio
+Buceo,2.0,1.0,39.0,bajo
+Pocitos,2.0,1.0,20.0,bajo
+Belvedere,4.0,2.0,239.0,medio
+La Blanqueada,2.0,1.0,71.0,medio
+Reducto,2.0,1.0,67.0,bajo
+Tres Cruces,1.0,1.0,83.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Belvedere,2.0,1.0,62.0,bajo
+Punta Gorda,3.0,2.0,120.0,alto
+Centro,2.0,2.0,80.0,medio
+Ciudad Vieja,2.0,1.0,81.0,medio
+Pocitos,3.0,2.0,124.0,medio
+Atahualpa,4.0,2.0,100.0,medio
+Arroyo Seco,2.0,1.0,53.0,medio
+Pocitos,3.0,4.0,165.0,alto
+Malvin,2.0,2.0,77.0,alto
+Brazo Oriental,2.0,1.0,79.0,bajo
+Las Acacias,3.0,2.0,300.0,medio
+Pocitos,3.0,3.0,115.0,alto
+Centro,1.0,1.0,92.0,medio
+Aguada,2.0,2.0,58.0,medio
+Atahualpa,1.0,1.0,54.0,bajo
+Carrasco,4.0,3.0,230.0,alto
+Centro,2.0,2.0,90.0,medio
+Centro,2.0,4.0,577.0,alto
+Cordon,1.0,1.0,4.0,medio
+Pocitos,2.0,2.0,96.0,alto
+Buceo,1.0,1.0,50.0,medio
+Monoambiente,2.0,1.0,38.0,bajo
+Parque Rodo,2.0,4.0,300.0,alto
+Cordon,3.0,2.0,87.0,medio
+Reducto,1.0,1.0,60.0,bajo
+Buceo,3.0,2.0,178.0,alto
+Palermo,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,79.0,alto
+Jacinto Vera,3.0,1.0,80.0,medio
+Punta Gorda,2.0,4.0,510.0,alto
+Cordon,1.0,1.0,38.0,bajo
+Aguada,2.0,1.0,54.0,bajo
+Aires Puros,2.0,3.0,340.0,medio
+Centro,2.0,1.0,28.0,bajo
+Tres Cruces,3.0,2.0,70.0,bajo
+Punta Carretas,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,70.0,medio
+Tres Cruces,2.0,1.0,50.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Pocitos,4.0,4.0,189.0,alto
+Goes,3.0,2.0,120.0,medio
+Parque Batlle,2.0,1.0,62.0,bajo
+Pocitos,2.0,1.0,55.0,medio
+Monoambiente,2.0,1.0,39.0,bajo
+Monoambiente,2.0,1.0,46.0,bajo
+Aguada,3.0,1.0,364.0,alto
+Colon,4.0,1.0,280.0,bajo
+Pocitos,2.0,1.0,59.0,medio
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,61.0,medio
+Otros,1.0,1.0,517.0,alto
+Tres Cruces,1.0,1.0,42.0,medio
+Tres Cruces,1.0,1.0,57.0,bajo
+Punta Carretas,2.0,2.0,169.0,alto
+Ciudad Vieja,2.0,4.0,385.0,alto
+Malvin,1.0,1.0,50.0,medio
+Punta Carretas,2.0,1.0,754.0,alto
+Centro,1.0,1.0,40.0,bajo
+Malvin,2.0,1.0,80.0,medio
+La Blanqueada,2.0,2.0,152.0,alto
+Cordon,1.0,1.0,57.0,medio
+Goes,3.0,1.0,99.0,medio
+Centro,3.0,2.0,165.0,alto
+Malvin,2.0,1.0,177.0,alto
+Tres Cruces,1.0,1.0,49.0,medio
+Cordon,2.0,1.0,60.0,alto
+Cordon,2.0,2.0,100.0,medio
+Palermo,1.0,1.0,54.0,bajo
+Monoambiente,2.0,2.0,217.0,medio
+Union,1.0,1.0,36.0,medio
+Prado,3.0,2.0,120.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Jacinto Vera,2.0,1.0,571.0,alto
+Malvin,3.0,2.0,220.0,medio
+Otros,2.0,4.0,755.0,alto
+Belvedere,2.0,1.0,51.0,bajo
+Aguada,1.0,1.0,38.0,bajo
+Puerto Buceo,1.0,2.0,83.0,alto
+Prado,2.0,2.0,130.0,alto
+Malvin Norte,2.0,1.0,72.0,bajo
+Pocitos,2.0,2.0,134.0,alto
+Prado,3.0,2.0,107.0,medio
+Aguada,3.0,2.0,130.0,alto
+Tres Cruces,1.0,1.0,45.0,medio
+Pocitos,2.0,1.0,124.0,alto
+Pocitos,2.0,2.0,81.0,alto
+La Blanqueada,1.0,1.0,1.0,bajo
+Centro,2.0,4.0,576.0,alto
+Punta Gorda,2.0,2.0,305.0,alto
+Monoambiente,2.0,1.0,39.0,bajo
+Pocitos,3.0,4.0,216.0,alto
+Malvin,3.0,1.0,70.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Pocitos,2.0,2.0,98.0,alto
+Jacinto Vera,3.0,2.0,200.0,alto
+Centro,4.0,2.0,94.0,medio
+Centro,1.0,1.0,60.0,medio
+Malvin Norte,3.0,1.0,84.0,medio
+Pocitos Nuevo,4.0,3.0,158.0,alto
+Ciudad Vieja,2.0,1.0,79.0,medio
+Buceo,2.0,1.0,39.0,bajo
+Parque Rodo,3.0,1.0,63.0,alto
+Punta Gorda,3.0,2.0,120.0,alto
+Punta Carretas,1.0,1.0,50.0,medio
+Malvin,2.0,2.0,77.0,alto
+Aguada,2.0,2.0,58.0,medio
+Carrasco,4.0,3.0,230.0,alto
+Buceo,1.0,1.0,50.0,medio
+Buceo,3.0,2.0,178.0,alto
+Palermo,2.0,1.0,79.0,bajo
+Cordon,1.0,1.0,38.0,bajo
+Arroyo Seco,2.0,1.0,57.0,medio
+La Blanqueada,4.0,2.0,140.0,alto
+Prado,3.0,1.0,70.0,medio
+Aguada,2.0,1.0,57.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Palermo,2.0,1.0,79.0,alto
+Punta Carretas,2.0,2.0,73.0,alto
+Union,2.0,2.0,82.0,medio
+Prado,2.0,1.0,65.0,medio
+Centro,1.0,1.0,44.0,bajo
+Parque Batlle,2.0,4.0,405.0,alto
+Union,3.0,3.0,266.0,medio
+Monoambiente,2.0,1.0,43.0,medio
+Sayago,2.0,1.0,200.0,alto
+Aguada,1.0,1.0,40.0,bajo
+Malvin,3.0,3.0,200.0,alto
+Jacinto Vera,1.0,1.0,71.0,medio
+Malvin Norte,2.0,1.0,79.0,bajo
+Prado,2.0,1.0,68.0,medio
+Monoambiente,2.0,1.0,31.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Punta Carretas,4.0,2.0,81.0,alto
+Brazo Oriental,2.0,1.0,60.0,medio
+La Blanqueada,3.0,1.0,80.0,medio
+Golf,2.0,4.0,499.0,alto
+Pocitos,2.0,4.0,500.0,alto
+Pocitos,3.0,4.0,152.0,alto
+Punta Carretas,1.0,1.0,52.0,medio
+Nuevo Paris,4.0,1.0,200.0,bajo
+Parque Batlle,2.0,2.0,60.0,alto
+Parque Batlle,4.0,3.0,217.0,alto
+Monoambiente,2.0,1.0,50.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Punta Carretas,3.0,2.0,75.0,alto
+Pocitos Nuevo,4.0,3.0,233.0,alto
+Aguada,2.0,1.0,55.0,bajo
+Malvin,3.0,3.0,129.0,alto
+Cerrito,2.0,1.0,300.0,bajo
+Puerto Buceo,4.0,2.0,160.0,alto
+Buceo,2.0,1.0,170.0,medio
+Carrasco,4.0,4.0,150.0,alto
+Reducto,2.0,1.0,99.0,medio
+La Blanqueada,2.0,1.0,50.0,medio
+Centro,1.0,1.0,40.0,bajo
+Monoambiente,2.0,1.0,46.0,bajo
+Monoambiente,2.0,1.0,35.0,bajo
+Barrio Sur,1.0,1.0,47.0,bajo
+Pocitos,3.0,3.0,112.0,alto
+Centro,3.0,1.0,69.0,medio
+Malvin,2.0,1.0,55.0,medio
+Cordon,1.0,1.0,70.0,bajo
+Monoambiente,2.0,1.0,21.0,bajo
+Pocitos Nuevo,3.0,1.0,135.0,alto
+La Blanqueada,2.0,1.0,74.0,medio
+Pocitos,3.0,3.0,100.0,alto
+Cordon,1.0,1.0,64.0,medio
+Buceo,2.0,2.0,70.0,alto
+Golf,2.0,3.0,191.0,alto
+Pocitos,1.0,1.0,64.0,medio
+La Comercial,2.0,3.0,978.0,alto
+Pocitos,3.0,2.0,104.0,alto
+Reducto,2.0,1.0,61.0,bajo
+Maroñas,3.0,1.0,580.0,bajo
+Belvedere,3.0,1.0,79.0,bajo
+Reducto,2.0,1.0,67.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Belvedere,2.0,1.0,62.0,bajo
+Ciudad Vieja,2.0,1.0,81.0,medio
+Cordon,1.0,1.0,4.0,medio
+Pocitos,2.0,2.0,96.0,alto
+Monoambiente,2.0,1.0,38.0,bajo
+Cordon,3.0,2.0,87.0,medio
+Reducto,1.0,1.0,60.0,bajo
+Centro,2.0,1.0,79.0,alto
+Cerro,2.0,3.0,181.0,medio
+Union,3.0,1.0,74.0,bajo
+La Blanqueada,1.0,1.0,43.0,bajo
+Punta Carretas,1.0,1.0,37.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Carrasco,2.0,1.0,58.0,medio
+Parque Rodo,3.0,3.0,114.0,alto
+Parque Batlle,2.0,1.0,45.0,bajo
+Parque Rodo,2.0,1.0,67.0,medio
+Prado,1.0,1.0,67.0,medio
+Manga,4.0,2.0,632.0,alto
+Pocitos,1.0,1.0,67.0,alto
+Cerrito,2.0,4.0,1358.0,alto
+Malvin Norte,3.0,2.0,100.0,alto
+Centro,2.0,1.0,79.0,bajo
+Carrasco,2.0,4.0,382.0,alto
+Malvin,2.0,1.0,71.0,medio
+Tres Cruces,1.0,1.0,58.0,bajo
+Union,2.0,1.0,176.0,bajo
+Puerto Buceo,2.0,2.0,67.0,medio
+Prado,4.0,2.0,87.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Pocitos,1.0,1.0,40.0,medio
+Carrasco,2.0,3.0,139.0,alto
+Tres Cruces,1.0,1.0,58.0,bajo
+Monoambiente,2.0,3.0,486.0,alto
+Pocitos,2.0,2.0,156.0,alto
+Brazo Oriental,2.0,3.0,242.0,alto
+Prado,3.0,2.0,388.0,alto
+Centro,4.0,4.0,176.0,alto
+Cordon,1.0,1.0,54.0,medio
+10 Has.,2.0,1.0,79.0,alto
+Punta Carretas,2.0,1.0,8.0,bajo
+La Blanqueada,1.0,1.0,55.0,medio
+Jacinto Vera,2.0,1.0,70.0,bajo
+Carrasco,3.0,1.0,80.0,medio
+Pocitos,4.0,4.0,285.0,alto
+Centro,2.0,4.0,801.0,alto
+Malvin,3.0,2.0,110.0,medio
+Buceo,1.0,1.0,62.0,medio
+Ciudad Vieja,3.0,2.0,105.0,alto
+Malvin,4.0,4.0,145.0,alto
+Malvin Norte,2.0,1.0,749.0,bajo
+Monoambiente,2.0,1.0,34.0,bajo
+Atahualpa,2.0,1.0,100.0,bajo
+Villa Muñoz,2.0,1.0,54.0,medio
+Buceo,3.0,1.0,71.0,medio
+Barrio Sur,1.0,1.0,37.0,medio
+Prado,4.0,4.0,507.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Pocitos,2.0,3.0,66.0,alto
+Buceo,2.0,1.0,65.0,medio
+Malvin Norte,1.0,1.0,35.0,bajo
+Cordon,2.0,1.0,54.0,medio
+Malvin Norte,3.0,1.0,74.0,bajo
+Union,2.0,1.0,78.0,bajo
+Punta Gorda,4.0,3.0,375.0,alto
+Carrasco,2.0,1.0,1035.0,medio
+Peñarol,2.0,1.0,8747.0,alto
+Buceo,2.0,2.0,272.0,alto
+La Comercial,2.0,1.0,55.0,bajo
+Pocitos,3.0,3.0,133.0,alto
+Centro,2.0,1.0,101.0,medio
+Prado,3.0,2.0,90.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+Reducto,3.0,1.0,55.0,bajo
+Centro,4.0,2.0,148.0,alto
+Cordon,1.0,1.0,39.0,bajo
+Puerto Buceo,3.0,2.0,160.0,alto
+Atahualpa,2.0,1.0,65.0,bajo
+Malvin Norte,1.0,1.0,45.0,bajo
+Tres Cruces,1.0,1.0,38.0,bajo
+Palermo,3.0,2.0,131.0,alto
+Carrasco,3.0,3.0,200.0,alto
+Cordon,1.0,1.0,53.0,medio
+Buceo,3.0,1.0,111.0,medio
+Brazo Oriental,4.0,1.0,600.0,medio
+Aguada,2.0,1.0,86.0,bajo
+Tres Cruces,2.0,3.0,336.0,alto
+Bella Vista,3.0,2.0,95.0,bajo
+Monoambiente,2.0,1.0,32.0,bajo
+La Blanqueada,1.0,1.0,60.0,bajo
+La Blanqueada,2.0,1.0,71.0,medio
+Brazo Oriental,2.0,1.0,79.0,bajo
+Las Acacias,3.0,2.0,300.0,medio
+Pocitos,3.0,4.0,165.0,alto
+Centro,2.0,4.0,577.0,alto
+Jacinto Vera,3.0,1.0,80.0,medio
+Prado,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Prado,3.0,2.0,192.0,alto
+Villa Española,1.0,1.0,40.0,bajo
+Aires Puros,4.0,2.0,410.0,bajo
+Carrasco,3.0,4.0,320.0,alto
+Malvin,1.0,1.0,43.0,medio
+Reducto,3.0,1.0,75.0,bajo
+Manga,2.0,1.0,86.0,bajo
+Cordon,1.0,1.0,48.0,bajo
+Malvin,2.0,1.0,50.0,medio
+Colon,3.0,1.0,260.0,bajo
+Reducto,2.0,2.0,225.0,medio
+Atahualpa,3.0,2.0,382.0,alto
+Maroñas,2.0,1.0,80.0,bajo
+Otros,2.0,1.0,1.0,alto
+Cordon,3.0,2.0,80.0,medio
+Pocitos Nuevo,3.0,2.0,180.0,alto
+Jacinto Vera,2.0,1.0,562.0,alto
+Reducto,2.0,1.0,60.0,bajo
+Belvedere,2.0,1.0,195.0,bajo
+Villa Biarritz,3.0,4.0,201.0,alto
+Barrio Sur,2.0,1.0,71.0,medio
+Piedras Blancas,2.0,4.0,142.0,bajo
+Aguada,3.0,3.0,108.0,bajo
+Prado,2.0,1.0,50.0,bajo
+La Blanqueada,3.0,2.0,107.0,medio
+La Blanqueada,2.0,1.0,49.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Reducto,2.0,1.0,70.0,medio
+La Blanqueada,1.0,1.0,39.0,bajo
+Punta Gorda,4.0,4.0,750.0,alto
+Malvin,2.0,2.0,71.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Bolivar M. Modelo,2.0,2.0,120.0,medio
+Cordon,2.0,1.0,76.0,medio
+Palermo,2.0,1.0,54.0,medio
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Brazo Oriental,3.0,1.0,90.0,medio
+Prado,3.0,1.0,180.0,medio
+Malvin,2.0,1.0,55.0,medio
+Pocitos,3.0,3.0,137.0,alto
+Cerro,3.0,2.0,122.0,bajo
+Capurro,4.0,2.0,252.0,medio
+Punta Carretas,4.0,3.0,177.0,alto
+Prado,2.0,3.0,558.0,alto
+Monoambiente,2.0,1.0,21.0,bajo
+La Blanqueada,1.0,1.0,52.0,bajo
+Carrasco Norte,3.0,3.0,813.0,alto
+Malvin,2.0,2.0,72.0,alto
+Monoambiente,2.0,1.0,34.0,bajo
+Pocitos,3.0,2.0,79.0,medio
+La Blanqueada,3.0,2.0,73.0,medio
+Barrio Sur,2.0,1.0,55.0,medio
+Pocitos,3.0,3.0,137.0,alto
+La Blanqueada,2.0,1.0,51.0,bajo
+Union,1.0,1.0,44.0,bajo
+Cordon,3.0,2.0,115.0,medio
+Atahualpa,4.0,2.0,100.0,medio
+Buceo,1.0,1.0,130.0,medio
+Pocitos,2.0,1.0,20.0,bajo
+Pocitos,1.0,1.0,56.0,medio
+Aguada,1.0,1.0,30.0,bajo
+Belvedere,4.0,2.0,239.0,medio
+Tres Cruces,1.0,1.0,83.0,bajo
+Centro,2.0,2.0,80.0,medio
+Pocitos,3.0,2.0,124.0,medio
+Arroyo Seco,2.0,1.0,53.0,medio
+Atahualpa,4.0,2.0,100.0,medio
+Pocitos,3.0,3.0,115.0,alto
+Centro,1.0,1.0,92.0,medio
+Atahualpa,1.0,1.0,54.0,bajo
+Centro,2.0,2.0,90.0,medio
+Parque Rodo,2.0,4.0,300.0,alto
+Punta Gorda,2.0,4.0,510.0,alto
+Aguada,2.0,1.0,54.0,bajo
+Aires Puros,2.0,3.0,340.0,medio
+Centro,2.0,1.0,28.0,bajo
+Tres Cruces,3.0,2.0,70.0,bajo
+Punta Carretas,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,70.0,medio
+Tres Cruces,2.0,1.0,50.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Pocitos,4.0,4.0,189.0,alto
+Goes,3.0,2.0,120.0,medio
+La Comercial,2.0,1.0,110.0,bajo
+Parque Batlle,2.0,1.0,62.0,bajo
+Pocitos,2.0,1.0,55.0,medio
+Monoambiente,2.0,1.0,39.0,bajo
+Monoambiente,2.0,1.0,46.0,bajo
+Aguada,3.0,1.0,364.0,alto
+Colon,4.0,1.0,280.0,bajo
+Pocitos,2.0,1.0,59.0,medio
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,61.0,medio
+Otros,1.0,1.0,517.0,alto
+Tres Cruces,1.0,1.0,42.0,medio
+Tres Cruces,1.0,1.0,57.0,bajo
+Carrasco Norte,2.0,2.0,90.0,alto
+Malvin,3.0,2.0,100.0,alto
+Punta Carretas,2.0,2.0,169.0,alto
+Ciudad Vieja,2.0,4.0,385.0,alto
+Malvin,1.0,1.0,50.0,medio
+Punta Carretas,2.0,1.0,754.0,alto
+Centro,1.0,1.0,40.0,bajo
+Malvin,2.0,1.0,80.0,medio
+La Blanqueada,2.0,2.0,152.0,alto
+Cordon,1.0,1.0,57.0,medio
+Goes,3.0,1.0,99.0,medio
+Centro,3.0,2.0,165.0,alto
+Malvin,2.0,1.0,177.0,alto
+Tres Cruces,1.0,1.0,49.0,medio
+Punta Carretas,3.0,4.0,130.0,alto
+Cordon,2.0,1.0,60.0,alto
+Cordon,2.0,2.0,100.0,medio
+Palermo,1.0,1.0,54.0,bajo
+Monoambiente,2.0,2.0,217.0,medio
+Union,1.0,1.0,36.0,medio
+Prado,3.0,2.0,120.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Jacinto Vera,2.0,1.0,571.0,alto
+Malvin,3.0,2.0,220.0,medio
+Otros,2.0,4.0,755.0,alto
+Belvedere,2.0,1.0,51.0,bajo
+Aguada,1.0,1.0,38.0,bajo
+Puerto Buceo,1.0,2.0,83.0,alto
+Prado,2.0,2.0,130.0,alto
+Malvin Norte,2.0,1.0,72.0,bajo
+Punta Carretas,3.0,2.0,90.0,alto
+Pocitos,2.0,2.0,134.0,alto
+Prado,3.0,2.0,107.0,medio
+Aguada,3.0,2.0,130.0,alto
+Tres Cruces,1.0,1.0,45.0,medio
+Pocitos,2.0,1.0,124.0,alto
+Pocitos,2.0,2.0,81.0,alto
+Atahualpa,2.0,1.0,51.0,bajo
+La Blanqueada,1.0,1.0,1.0,bajo
+Centro,2.0,4.0,576.0,alto
+Punta Gorda,2.0,2.0,305.0,alto
+Monoambiente,2.0,1.0,39.0,bajo
+Pocitos,3.0,4.0,216.0,alto
+Puerto Buceo,1.0,1.0,45.0,alto
+Malvin,3.0,1.0,70.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Pocitos,2.0,2.0,98.0,alto
+Jacinto Vera,3.0,2.0,200.0,alto
+Centro,4.0,2.0,94.0,medio
+Monoambiente,2.0,1.0,33.0,bajo
+Centro,1.0,1.0,60.0,medio
+Malvin Norte,3.0,1.0,84.0,medio
+Pocitos Nuevo,4.0,3.0,158.0,alto
+Ciudad Vieja,2.0,1.0,79.0,medio
+Buceo,2.0,1.0,39.0,bajo
+Parque Rodo,3.0,1.0,63.0,alto
+Punta Gorda,3.0,2.0,120.0,alto
+Punta Carretas,1.0,1.0,50.0,medio
+Malvin,2.0,2.0,77.0,alto
+Aguada,2.0,2.0,58.0,medio
+Carrasco,4.0,3.0,230.0,alto
+Buceo,1.0,1.0,50.0,medio
+Buceo,3.0,2.0,178.0,alto
+Buceo,2.0,1.0,298.0,alto
+Palermo,2.0,1.0,79.0,bajo
+Cordon,1.0,1.0,38.0,bajo
+Villa Española,2.0,1.0,126.0,bajo
+Arroyo Seco,2.0,1.0,57.0,medio
+La Blanqueada,4.0,2.0,140.0,alto
+Prado,3.0,1.0,70.0,medio
+Aguada,2.0,1.0,57.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Palermo,2.0,1.0,79.0,alto
+Ciudad Vieja,3.0,2.0,113.0,medio
+Punta Carretas,2.0,2.0,73.0,alto
+Pocitos Nuevo,2.0,1.0,75.0,bajo
+Union,2.0,2.0,82.0,medio
+Prado,2.0,1.0,65.0,medio
+Centro,1.0,1.0,44.0,bajo
+Parque Batlle,2.0,4.0,405.0,alto
+Union,3.0,3.0,266.0,medio
+Monoambiente,2.0,1.0,43.0,medio
+Sayago,2.0,1.0,200.0,alto
+Aguada,1.0,1.0,40.0,bajo
+Malvin,3.0,3.0,200.0,alto
+Jacinto Vera,1.0,1.0,71.0,medio
+Pocitos,2.0,1.0,50.0,bajo
+Jacinto Vera,2.0,1.0,59.0,alto
+Malvin Norte,2.0,1.0,79.0,bajo
+Prado,2.0,1.0,68.0,medio
+Monoambiente,2.0,1.0,31.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Punta Carretas,4.0,2.0,81.0,alto
+Brazo Oriental,2.0,1.0,60.0,medio
+La Blanqueada,3.0,1.0,80.0,medio
+Golf,2.0,4.0,499.0,alto
+Pocitos,2.0,4.0,500.0,alto
+Pocitos,3.0,4.0,152.0,alto
+Punta Carretas,1.0,1.0,52.0,medio
+Nuevo Paris,4.0,1.0,200.0,bajo
+Parque Batlle,2.0,2.0,60.0,alto
+Parque Batlle,4.0,3.0,217.0,alto
+Monoambiente,2.0,1.0,50.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Punta Carretas,3.0,2.0,75.0,alto
+Pocitos Nuevo,4.0,3.0,233.0,alto
+Aguada,2.0,1.0,55.0,bajo
+Punta Gorda,2.0,4.0,419.0,alto
+Malvin,3.0,3.0,129.0,alto
+Cerrito,2.0,1.0,300.0,bajo
+Puerto Buceo,4.0,2.0,160.0,alto
+Buceo,2.0,1.0,170.0,medio
+Carrasco,4.0,4.0,150.0,alto
+Reducto,2.0,1.0,99.0,medio
+La Blanqueada,2.0,1.0,50.0,medio
+Centro,1.0,1.0,40.0,bajo
+Monoambiente,2.0,1.0,46.0,bajo
+Monoambiente,2.0,1.0,35.0,bajo
+Barrio Sur,1.0,1.0,47.0,bajo
+Pocitos,3.0,3.0,112.0,alto
+Centro,3.0,1.0,69.0,medio
+Malvin,2.0,1.0,55.0,medio
+Cordon,1.0,1.0,70.0,bajo
+Monoambiente,2.0,1.0,21.0,bajo
+Pocitos Nuevo,3.0,1.0,135.0,alto
+La Blanqueada,2.0,1.0,74.0,medio
+Pocitos,3.0,3.0,100.0,alto
+Cordon,1.0,1.0,64.0,medio
+Buceo,2.0,2.0,70.0,alto
+Golf,2.0,3.0,191.0,alto
+Pocitos,1.0,1.0,64.0,medio
+La Comercial,2.0,3.0,978.0,alto
+Pocitos,3.0,2.0,104.0,alto
+Reducto,2.0,1.0,61.0,bajo
+Maroñas,3.0,1.0,580.0,bajo
+Carrasco,3.0,3.0,600.0,alto
+Belvedere,3.0,1.0,79.0,bajo
+Reducto,2.0,1.0,67.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Belvedere,2.0,1.0,62.0,bajo
+Ciudad Vieja,2.0,1.0,81.0,medio
+Cordon,1.0,1.0,4.0,medio
+Pocitos,2.0,2.0,96.0,alto
+Monoambiente,2.0,1.0,38.0,bajo
+Cordon,3.0,2.0,87.0,medio
+Reducto,1.0,1.0,60.0,bajo
+Centro,2.0,1.0,79.0,alto
+Cerro,2.0,3.0,181.0,medio
+Union,3.0,1.0,74.0,bajo
+La Blanqueada,1.0,1.0,43.0,bajo
+Punta Carretas,1.0,1.0,37.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Carrasco,2.0,1.0,58.0,medio
+Parque Rodo,3.0,3.0,114.0,alto
+Parque Batlle,2.0,1.0,45.0,bajo
+Barrio Sur,1.0,1.0,46.0,medio
+Parque Rodo,2.0,1.0,67.0,medio
+Prado,1.0,1.0,67.0,medio
+Monoambiente,2.0,1.0,35.0,bajo
+Manga,4.0,2.0,632.0,alto
+Pocitos,1.0,1.0,67.0,alto
+Cerrito,2.0,4.0,1358.0,alto
+Malvin Norte,3.0,2.0,100.0,alto
+Centro,2.0,1.0,79.0,bajo
+Carrasco,2.0,4.0,382.0,alto
+Malvin,2.0,1.0,71.0,medio
+Tres Cruces,1.0,1.0,58.0,bajo
+Union,2.0,1.0,176.0,bajo
+Puerto Buceo,2.0,2.0,67.0,medio
+Prado,4.0,2.0,87.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Cordon,2.0,1.0,68.0,medio
+Pocitos,1.0,1.0,40.0,medio
+Carrasco,2.0,3.0,139.0,alto
+Tres Cruces,1.0,1.0,58.0,bajo
+Monoambiente,2.0,3.0,486.0,alto
+Pocitos,2.0,2.0,156.0,alto
+Brazo Oriental,2.0,3.0,242.0,alto
+Prado,3.0,2.0,388.0,alto
+Centro,4.0,4.0,176.0,alto
+Cordon,1.0,1.0,54.0,medio
+10 Has.,2.0,1.0,79.0,alto
+Punta Carretas,2.0,1.0,8.0,bajo
+La Blanqueada,1.0,1.0,55.0,medio
+Jacinto Vera,2.0,1.0,70.0,bajo
+Carrasco,3.0,1.0,80.0,medio
+Pocitos,4.0,4.0,285.0,alto
+Centro,2.0,4.0,801.0,alto
+Malvin,3.0,2.0,110.0,medio
+Buceo,1.0,1.0,62.0,medio
+Ciudad Vieja,3.0,2.0,105.0,alto
+Monoambiente,2.0,1.0,25.0,bajo
+Malvin,4.0,4.0,145.0,alto
+Malvin Norte,2.0,1.0,749.0,bajo
+Monoambiente,2.0,1.0,34.0,bajo
+Atahualpa,2.0,1.0,100.0,bajo
+Villa Muñoz,2.0,1.0,54.0,medio
+Buceo,3.0,1.0,71.0,medio
+Barrio Sur,1.0,1.0,37.0,medio
+Prado,4.0,4.0,507.0,alto
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Pocitos,2.0,3.0,66.0,alto
+Buceo,2.0,1.0,65.0,medio
+Pocitos Nuevo,2.0,2.0,80.0,alto
+Malvin Norte,1.0,1.0,35.0,bajo
+Cordon,2.0,1.0,54.0,medio
+Malvin Norte,3.0,1.0,74.0,bajo
+Union,2.0,1.0,78.0,bajo
+Punta Gorda,4.0,3.0,375.0,alto
+Carrasco,2.0,1.0,1035.0,medio
+Peñarol,2.0,1.0,8747.0,alto
+Buceo,2.0,2.0,272.0,alto
+La Comercial,2.0,1.0,55.0,bajo
+Pocitos,3.0,3.0,133.0,alto
+Centro,2.0,1.0,101.0,medio
+Prado,3.0,2.0,90.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+Reducto,3.0,1.0,55.0,bajo
+Centro,4.0,2.0,148.0,alto
+Cordon,1.0,1.0,39.0,bajo
+Puerto Buceo,3.0,2.0,160.0,alto
+Atahualpa,2.0,1.0,65.0,bajo
+Malvin Norte,1.0,1.0,45.0,bajo
+Tres Cruces,1.0,1.0,38.0,bajo
+Palermo,3.0,2.0,131.0,alto
+Carrasco,3.0,3.0,200.0,alto
+Cordon,1.0,1.0,53.0,medio
+Buceo,3.0,1.0,111.0,medio
+Brazo Oriental,4.0,1.0,600.0,medio
+Aguada,2.0,1.0,86.0,bajo
+Tres Cruces,2.0,3.0,336.0,alto
+Bella Vista,3.0,2.0,95.0,bajo
+Monoambiente,2.0,1.0,32.0,bajo
+La Blanqueada,1.0,1.0,60.0,bajo
+La Blanqueada,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Brazo Oriental,2.0,1.0,79.0,bajo
+Las Acacias,3.0,2.0,300.0,medio
+Pocitos,3.0,4.0,165.0,alto
+Centro,2.0,4.0,577.0,alto
+Otros,2.0,1.0,69.0,medio
+Jacinto Vera,3.0,1.0,80.0,medio
+Monoambiente,2.0,1.0,39.0,medio
+Prado,2.0,1.0,71.0,medio
+Monoambiente,2.0,1.0,30.0,bajo
+Prado,3.0,2.0,192.0,alto
+Villa Española,1.0,1.0,40.0,bajo
+Aires Puros,4.0,2.0,410.0,bajo
+Carrasco,3.0,4.0,320.0,alto
+Malvin,1.0,1.0,43.0,medio
+Reducto,3.0,1.0,75.0,bajo
+Manga,2.0,1.0,86.0,bajo
+Centro,2.0,1.0,59.0,bajo
+Cordon,1.0,1.0,48.0,bajo
+Malvin,2.0,1.0,50.0,medio
+Colon,3.0,1.0,260.0,bajo
+Reducto,2.0,2.0,225.0,medio
+Atahualpa,3.0,2.0,382.0,alto
+Maroñas,2.0,1.0,80.0,bajo
+Carrasco,2.0,3.0,118.0,alto
+Otros,2.0,1.0,1.0,alto
+Cordon,3.0,2.0,80.0,medio
+Pocitos Nuevo,3.0,2.0,180.0,alto
+Jacinto Vera,2.0,1.0,562.0,alto
+Reducto,2.0,1.0,60.0,bajo
+Belvedere,2.0,1.0,195.0,bajo
+Villa Biarritz,3.0,4.0,201.0,alto
+Barrio Sur,2.0,1.0,71.0,medio
+La Blanqueada,1.0,1.0,42.0,bajo
+Piedras Blancas,2.0,4.0,142.0,bajo
+Aguada,3.0,3.0,108.0,bajo
+Prado,2.0,1.0,50.0,bajo
+La Blanqueada,3.0,2.0,107.0,medio
+La Blanqueada,2.0,1.0,49.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Reducto,2.0,1.0,70.0,medio
+La Blanqueada,1.0,1.0,39.0,bajo
+Punta Gorda,4.0,4.0,750.0,alto
+Sayago,3.0,2.0,329.0,medio
+Malvin,2.0,2.0,71.0,alto
+Monoambiente,2.0,1.0,32.0,bajo
+La Blanqueada,3.0,2.0,191.0,medio
+Malvin,3.0,2.0,340.0,alto
+Bolivar M. Modelo,2.0,2.0,120.0,medio
+Cordon,2.0,1.0,76.0,medio
+Palermo,2.0,1.0,54.0,medio
+Buceo,2.0,1.0,70.0,bajo
+Ciudad Vieja,1.0,1.0,47.0,bajo
+Brazo Oriental,3.0,1.0,90.0,medio
+Cordon,2.0,1.0,69.0,medio
+Prado,3.0,1.0,180.0,medio
+Malvin,2.0,1.0,55.0,medio
+La Blanqueada,1.0,1.0,46.0,medio
+Pocitos,3.0,3.0,137.0,alto
+Cerro,3.0,2.0,122.0,bajo
+Capurro,4.0,2.0,252.0,medio
+Buceo,3.0,1.0,66.0,medio
+Punta Carretas,4.0,3.0,177.0,alto
+Prado,2.0,3.0,558.0,alto
+Cordon,1.0,1.0,51.0,medio
+Monoambiente,2.0,1.0,21.0,bajo
+La Blanqueada,1.0,1.0,52.0,bajo
+Carrasco Norte,3.0,3.0,813.0,alto
+La Blanqueada,3.0,1.0,73.0,medio
+Malvin,2.0,2.0,72.0,alto
+Tres Cruces,1.0,1.0,45.0,bajo
+Monoambiente,2.0,1.0,34.0,bajo
+Cordon,3.0,2.0,70.0,bajo
+Pocitos,3.0,2.0,79.0,medio
+La Blanqueada,3.0,2.0,73.0,medio
+Barrio Sur,2.0,1.0,55.0,medio
+Pocitos,3.0,3.0,137.0,alto
+La Blanqueada,2.0,1.0,51.0,bajo
+Union,1.0,1.0,44.0,bajo
+Cordon,3.0,2.0,115.0,medio
+Atahualpa,4.0,2.0,100.0,medio
+Larrañaga,2.0,2.0,215.0,medio
+Buceo,1.0,1.0,130.0,medio
+Peñarol,4.0,4.0,545.0,medio
+Pocitos,2.0,1.0,20.0,bajo
+Pocitos,1.0,1.0,56.0,medio
+Aguada,1.0,1.0,30.0,bajo
+Belvedere,4.0,2.0,239.0,medio
+Tres Cruces,1.0,1.0,83.0,bajo
+Centro,2.0,2.0,80.0,medio
+Pocitos,3.0,2.0,124.0,medio
+Arroyo Seco,2.0,1.0,53.0,medio
+Atahualpa,4.0,2.0,100.0,medio
+Pocitos,3.0,3.0,115.0,alto
+Tres Cruces,2.0,1.0,116.0,alto
+Centro,1.0,1.0,92.0,medio
+Atahualpa,1.0,1.0,54.0,bajo
+Centro,2.0,2.0,90.0,medio
+Parque Rodo,2.0,4.0,300.0,alto
+Punta Gorda,2.0,4.0,510.0,alto
+Otros,2.0,1.0,1608.0,alto
+Aguada,2.0,1.0,54.0,bajo
+Aires Puros,2.0,3.0,340.0,medio
+Centro,2.0,1.0,28.0,bajo
+Tres Cruces,3.0,2.0,70.0,bajo
+Punta Carretas,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,70.0,medio
+Tres Cruces,2.0,1.0,50.0,bajo
+Parque Batlle,2.0,2.0,365.0,alto
+Pocitos,4.0,4.0,189.0,alto
+Goes,3.0,2.0,120.0,medio
+La Comercial,2.0,1.0,110.0,bajo
+La Comercial,4.0,2.0,159.0,bajo
+Parque Batlle,2.0,1.0,62.0,bajo
+Pocitos,2.0,1.0,55.0,medio
+Monoambiente,2.0,1.0,39.0,bajo
+Monoambiente,2.0,1.0,46.0,bajo
+Aguada,3.0,1.0,364.0,alto
+Colon,4.0,1.0,280.0,bajo
+Pocitos,2.0,1.0,59.0,medio
+Cordon,2.0,1.0,77.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Centro,2.0,1.0,61.0,medio
+Otros,1.0,1.0,517.0,alto
+Tres Cruces,1.0,1.0,42.0,medio
+Tres Cruces,1.0,1.0,57.0,bajo
+Carrasco Norte,2.0,2.0,90.0,alto
+Malvin,3.0,2.0,100.0,alto
+Punta Carretas,2.0,2.0,169.0,alto
+Ciudad Vieja,2.0,4.0,385.0,alto
+Malvin,1.0,1.0,50.0,medio
+Punta Carretas,2.0,1.0,754.0,alto
+Centro,1.0,1.0,40.0,bajo
+Malvin,2.0,1.0,80.0,medio
+La Blanqueada,2.0,2.0,152.0,alto
+Cordon,1.0,1.0,57.0,medio
+Goes,3.0,1.0,99.0,medio
+Centro,3.0,2.0,165.0,alto
+Malvin,2.0,1.0,177.0,alto
+Tres Cruces,1.0,1.0,49.0,medio
+Punta Carretas,3.0,4.0,130.0,alto
+Cordon,2.0,1.0,60.0,alto
+Cordon,2.0,2.0,100.0,medio
+Palermo,1.0,1.0,54.0,bajo
+Monoambiente,2.0,2.0,217.0,medio
+Union,1.0,1.0,36.0,medio
+Prado,3.0,2.0,120.0,alto
+Piedras Blancas,1.0,1.0,33.0,bajo
+Jacinto Vera,2.0,1.0,571.0,alto
+Malvin,3.0,2.0,220.0,medio
+Otros,2.0,4.0,755.0,alto
+Belvedere,2.0,1.0,51.0,bajo
+Aguada,1.0,1.0,38.0,bajo
+Puerto Buceo,1.0,2.0,83.0,alto
+Prado,2.0,2.0,130.0,alto
+Malvin Norte,2.0,1.0,72.0,bajo
+Monoambiente,2.0,1.0,26.0,bajo
+Punta Carretas,3.0,2.0,90.0,alto
+Pocitos,2.0,2.0,134.0,alto
+Cordon,1.0,1.0,46.0,bajo
+Prado,3.0,2.0,107.0,medio
+Aguada,3.0,2.0,130.0,alto
+Tres Cruces,1.0,1.0,45.0,medio
+Cordon,2.0,2.0,82.0,medio
+Pocitos,2.0,1.0,124.0,alto
+Pocitos,2.0,2.0,81.0,alto
+Atahualpa,2.0,1.0,51.0,bajo
+La Blanqueada,1.0,1.0,1.0,bajo
+Centro,2.0,4.0,576.0,alto
+Punta Gorda,2.0,2.0,305.0,alto
+Monoambiente,2.0,1.0,39.0,bajo
+Pocitos,3.0,4.0,216.0,alto
+Puerto Buceo,1.0,1.0,45.0,alto
+Malvin,3.0,1.0,70.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Pocitos,2.0,2.0,98.0,alto
+Pocitos,4.0,4.0,343.0,alto
+Jacinto Vera,3.0,2.0,200.0,alto
+Centro,4.0,2.0,94.0,medio
+Monoambiente,2.0,1.0,33.0,bajo
+Centro,1.0,1.0,60.0,medio
+Malvin Norte,3.0,1.0,84.0,medio
+Pocitos Nuevo,4.0,3.0,158.0,alto
+Ciudad Vieja,2.0,1.0,79.0,medio
+Buceo,2.0,1.0,39.0,bajo
+Parque Rodo,3.0,1.0,63.0,alto
+Piedras Blancas,3.0,2.0,120.0,medio
+Punta Gorda,3.0,2.0,120.0,alto
+Punta Carretas,1.0,1.0,50.0,medio
+Malvin Norte,2.0,1.0,90.0,bajo
+Malvin,2.0,2.0,77.0,alto
+Prado,2.0,1.0,63.0,medio
+Aguada,2.0,2.0,58.0,medio
+La Comercial,2.0,2.0,79.0,medio
+Carrasco,4.0,3.0,230.0,alto
+Buceo,1.0,1.0,50.0,medio
+Buceo,3.0,2.0,178.0,alto
+Buceo,2.0,1.0,298.0,alto
+Palermo,2.0,1.0,79.0,bajo
+Cordon,1.0,1.0,38.0,bajo
+Villa Española,2.0,1.0,126.0,bajo
+Arroyo Seco,2.0,1.0,57.0,medio
+La Blanqueada,4.0,2.0,140.0,alto
+Prado,3.0,1.0,70.0,medio
+Aguada,2.0,1.0,57.0,medio
+Pocitos,2.0,1.0,79.0,bajo
+Palermo,2.0,1.0,79.0,alto
+Ciudad Vieja,3.0,2.0,113.0,medio
+Punta Carretas,2.0,2.0,73.0,alto
+Pocitos Nuevo,2.0,1.0,75.0,bajo
+Union,2.0,2.0,82.0,medio
+Prado,2.0,1.0,65.0,medio
+Centro,1.0,1.0,44.0,bajo
+Parque Batlle,2.0,4.0,405.0,alto
+Union,3.0,3.0,266.0,medio
+Monoambiente,2.0,1.0,43.0,medio
+Sayago,2.0,1.0,200.0,alto
+Aguada,1.0,1.0,40.0,bajo
+Malvin,3.0,3.0,200.0,alto
+Jacinto Vera,1.0,1.0,71.0,medio
+Pocitos,2.0,1.0,50.0,bajo
+Jacinto Vera,2.0,1.0,59.0,alto
+Malvin Norte,2.0,1.0,79.0,bajo
+Prado,2.0,1.0,68.0,medio
+Monoambiente,2.0,1.0,31.0,bajo
+Malvin,2.0,2.0,99.0,alto
+Brazo Oriental,4.0,3.0,277.0,alto
+Punta Carretas,4.0,2.0,81.0,alto
+Brazo Oriental,2.0,1.0,60.0,medio
+La Blanqueada,3.0,1.0,80.0,medio
+Golf,2.0,4.0,499.0,alto
+Pocitos,2.0,4.0,500.0,alto
+Pocitos,3.0,4.0,152.0,alto
+Buceo,2.0,1.0,47.0,medio
+Punta Carretas,1.0,1.0,52.0,medio
+Nuevo Paris,4.0,1.0,200.0,bajo
+Parque Batlle,2.0,2.0,60.0,alto
+Parque Batlle,4.0,3.0,217.0,alto
+Paso Carrasco,3.0,3.0,315.0,alto
+Monoambiente,2.0,1.0,50.0,bajo
+Malvin,1.0,1.0,47.0,medio
+Punta Carretas,3.0,2.0,75.0,alto
+Pocitos Nuevo,4.0,3.0,233.0,alto
+Aguada,2.0,1.0,55.0,bajo
+Punta Gorda,2.0,4.0,419.0,alto
+Malvin,3.0,3.0,129.0,alto
+Cerrito,2.0,1.0,300.0,bajo
+Puerto Buceo,4.0,2.0,160.0,alto
+Buceo,2.0,1.0,170.0,medio
+Carrasco,4.0,4.0,150.0,alto
+Reducto,2.0,1.0,99.0,medio
+La Blanqueada,2.0,1.0,50.0,medio
+Centro,1.0,1.0,40.0,bajo
+Monoambiente,2.0,1.0,25.0,bajo
+Monoambiente,2.0,1.0,46.0,bajo
+Monoambiente,2.0,1.0,35.0,bajo
+Barrio Sur,1.0,1.0,47.0,bajo
+Pocitos,3.0,3.0,112.0,alto
+Centro,3.0,1.0,69.0,medio
+Malvin,2.0,1.0,55.0,medio
+Cordon,1.0,1.0,70.0,bajo
+Monoambiente,2.0,1.0,21.0,bajo
+Malvin,2.0,3.0,653.0,alto
+Pocitos Nuevo,3.0,1.0,135.0,alto
+La Blanqueada,2.0,1.0,74.0,medio
+Jacinto Vera,1.0,1.0,43.0,medio
+Brazo Oriental,1.0,1.0,44.0,bajo
+Pocitos,3.0,3.0,100.0,alto
+Cordon,1.0,1.0,64.0,medio
+Buceo,2.0,2.0,70.0,alto
+Golf,2.0,3.0,191.0,alto
+Pocitos,1.0,1.0,64.0,medio
+La Comercial,2.0,3.0,978.0,alto
+Pocitos,3.0,2.0,104.0,alto
+Reducto,2.0,1.0,61.0,bajo
+Maroñas,3.0,1.0,580.0,bajo
+Ciudad Vieja,2.0,2.0,1.0,bajo
+Carrasco,3.0,3.0,600.0,alto
+Belvedere,3.0,1.0,79.0,bajo
+Reducto,2.0,1.0,67.0,bajo
+Ciudad Vieja,2.0,2.0,104.0,bajo
+Belvedere,2.0,1.0,62.0,bajo
+Ciudad Vieja,2.0,1.0,81.0,medio
+Pocitos,3.0,2.0,124.0,alto
+Cordon,1.0,1.0,4.0,medio
+Pocitos,2.0,2.0,96.0,alto
+Monoambiente,2.0,1.0,38.0,bajo
+Cordon,3.0,2.0,87.0,medio
+Reducto,1.0,1.0,60.0,bajo
+Centro,2.0,1.0,79.0,alto
+Cerro,2.0,3.0,181.0,medio
+Union,3.0,1.0,74.0,bajo
+La Blanqueada,1.0,1.0,43.0,bajo
+Punta Carretas,1.0,1.0,37.0,medio
+Pocitos,2.0,1.0,57.0,medio
+Cordon,2.0,1.0,45.0,bajo
+Carrasco,2.0,1.0,58.0,medio
+Parque Rodo,3.0,3.0,114.0,alto
+Parque Batlle,2.0,1.0,45.0,bajo
+Barrio Sur,1.0,1.0,46.0,medio
+Parque Rodo,2.0,1.0,67.0,medio
+Prado,1.0,1.0,67.0,medio
+Monoambiente,2.0,1.0,35.0,bajo
+Manga,4.0,2.0,632.0,alto
+Pocitos,1.0,1.0,67.0,alto
+Cerrito,2.0,4.0,1358.0,alto
